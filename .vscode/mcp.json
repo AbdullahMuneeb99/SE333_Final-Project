@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"SE333_Final_Project": {
+			"url": "http://127.0.0.1:8000/sse",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
