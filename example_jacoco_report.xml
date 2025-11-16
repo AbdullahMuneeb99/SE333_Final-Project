@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE report PUBLIC "-//JACOCO//DTD Report 1.1//EN" "report.dtd">
+<report name="JaCoCo Coverage Report">
+    <package name="com/example/calculator" line-rate="0.75" branch-rate="0.60" complexity="1.0">
+        <class name="Calculator.java" filename="com/example/calculator/Calculator.java" line-rate="0.80" branch-rate="0.60" complexity="1.0">
+            <method name="add" signature="(II)I" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+                <counter type="INSTRUCTION" covered="10" missed="0"/>
+                <counter type="BRANCH" covered="0" missed="0"/>
+                <counter type="LINE" covered="3" missed="0"/>
+                <counter type="COMPLEXITY" covered="1" missed="0"/>
+                <counter type="METHOD" covered="1" missed="0"/>
+            </method>
+            <method name="subtract" signature="(II)I" line-rate="0.5" branch-rate="0.0" complexity="1.0">
+                <counter type="INSTRUCTION" covered="5" missed="5"/>
+                <counter type="BRANCH" covered="0" missed="2"/>
+                <counter type="LINE" covered="2" missed="2"/>
+                <counter type="COMPLEXITY" covered="0" missed="1"/>
+                <counter type="METHOD" covered="0" missed="1"/>
+                <line nr="15" mi="0" ci="1"/>
+                <line nr="16" mi="1" ci="0"/>
+                <line nr="17" mi="1" ci="0"/>
+                <line nr="18" mi="0" ci="1"/>
+            </method>
+            <method name="divide" signature="(II)I" line-rate="0.33" branch-rate="0.0" complexity="2.0">
+                <counter type="INSTRUCTION" covered="3" missed="6"/>
+                <counter type="BRANCH" covered="0" missed="3"/>
+                <counter type="LINE" covered="1" missed="3"/>
+                <counter type="COMPLEXITY" covered="0" missed="2"/>
+                <counter type="METHOD" covered="0" missed="1"/>
+                <line nr="20" mi="0" ci="1"/>
+                <line nr="21" mi="1" ci="0"/>
+                <line nr="22" mi="1" ci="0"/>
+                <line nr="23" mi="1" ci="0"/>
+            </method>
+            <counter type="INSTRUCTION" covered="18" missed="11"/>
+            <counter type="BRANCH" covered="0" missed="5"/>
+            <counter type="LINE" covered="6" missed="5"/>
+            <counter type="COMPLEXITY" covered="2" missed="3"/>
+            <counter type="METHOD" covered="1" missed="2"/>
+        </class>
+        <sourcefile name="Calculator.java" complexity="1.0" line-rate="0.80" branch-rate="0.60">
+            <line nr="1" mi="0" ci="1" type="stmt"/>
+            <line nr="10" mi="0" ci="3" type="cond"/>
+            <line nr="15" mi="0" ci="1" type="stmt"/>
+            <line nr="16" mi="1" ci="0" type="stmt"/>
+            <line nr="17" mi="1" ci="0" type="stmt"/>
+            <line nr="18" mi="0" ci="1" type="stmt"/>
+            <line nr="20" mi="0" ci="1" type="cond"/>
+            <line nr="21" mi="1" ci="0" type="stmt"/>
+            <line nr="22" mi="1" ci="0" type="stmt"/>
+            <line nr="23" mi="1" ci="0" type="stmt"/>
+            <counter type="INSTRUCTION" covered="18" missed="11"/>
+            <counter type="BRANCH" covered="0" missed="5"/>
+            <counter type="LINE" covered="6" missed="5"/>
+            <counter type="COMPLEXITY" covered="2" missed="3"/>
+            <counter type="METHOD" covered="1" missed="2"/>
+        </sourcefile>
+        <counter type="INSTRUCTION" covered="18" missed="11"/>
+        <counter type="BRANCH" covered="0" missed="5"/>
+        <counter type="LINE" covered="6" missed="5"/>
+        <counter type="COMPLEXITY" covered="2" missed="3"/>
+        <counter type="METHOD" covered="1" missed="2"/>
+    </package>
+    <counter type="INSTRUCTION" covered="18" missed="11"/>
+    <counter type="BRANCH" covered="0" missed="5"/>
+    <counter type="LINE" covered="6" missed="5"/>
+    <counter type="COMPLEXITY" covered="2" missed="3"/>
+    <counter type="METHOD" covered="1" missed="2"/>
+</report>

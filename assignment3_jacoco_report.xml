@@ -1,0 +1,928 @@
+<?xml version="1.0" ?>
+<!DOCTYPE report
+  PUBLIC '-//JACOCO//DTD Report 1.1//EN'
+  'report.dtd'>
+<report name="Assignment3">
+  <sessioninfo id="ThePhenom_14-c0f5b0db" start="1763283066096" dump="1763283068547"/>
+  <package name="org/example/Resource">
+    <class name="org/example/Resource/BuggyFile" sourcefilename="BuggyFile.java">
+      <method name="&lt;init&gt;" desc="()V" line="6">
+        <counter type="INSTRUCTION" missed="3" covered="0"/>
+        <counter type="LINE" missed="1" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method0" desc="()V" line="10">
+        <counter type="INSTRUCTION" missed="1" covered="0"/>
+        <counter type="LINE" missed="1" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method1_1" desc="()V" line="13">
+        <counter type="INSTRUCTION" missed="9" covered="0"/>
+        <counter type="LINE" missed="5" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method2" desc="()V" line="22">
+        <counter type="INSTRUCTION" missed="7" covered="0"/>
+        <counter type="LINE" missed="3" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method3" desc="()V" line="30">
+        <counter type="INSTRUCTION" missed="10" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="4" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="getStringFromDatabase" desc="(Z)Ljava/lang/String;" line="37">
+        <counter type="INSTRUCTION" missed="6" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="3" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method4" desc="()V" line="46">
+        <counter type="INSTRUCTION" missed="5" covered="0"/>
+        <counter type="LINE" missed="2" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method5" desc="()V" line="50">
+        <counter type="INSTRUCTION" missed="12" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="4" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method6_1" desc="()V" line="57">
+        <counter type="INSTRUCTION" missed="10" covered="0"/>
+        <counter type="LINE" missed="5" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method6_2" desc="()V" line="64">
+        <counter type="INSTRUCTION" missed="19" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="10" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method7_1" desc="()V" line="82">
+        <counter type="INSTRUCTION" missed="7" covered="0"/>
+        <counter type="LINE" missed="3" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method7_0" desc="()I" line="87">
+        <counter type="INSTRUCTION" missed="8" covered="0"/>
+        <counter type="LINE" missed="3" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method7_2" desc="()V" line="93">
+        <counter type="INSTRUCTION" missed="9" covered="0"/>
+        <counter type="LINE" missed="4" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="testMethod" desc="()V" line="99">
+        <counter type="INSTRUCTION" missed="18" covered="0"/>
+        <counter type="LINE" missed="7" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <counter type="INSTRUCTION" missed="124" covered="0"/>
+      <counter type="BRANCH" missed="8" covered="0"/>
+      <counter type="LINE" missed="55" covered="0"/>
+      <counter type="COMPLEXITY" missed="18" covered="0"/>
+      <counter type="METHOD" missed="14" covered="0"/>
+      <counter type="CLASS" missed="1" covered="0"/>
+    </class>
+    <class name="org/example/Resource/CleanFile" sourcefilename="CleanFile.java">
+      <method name="&lt;init&gt;" desc="()V" line="10">
+        <counter type="INSTRUCTION" missed="3" covered="0"/>
+        <counter type="LINE" missed="1" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method0" desc="()V" line="14">
+        <counter type="INSTRUCTION" missed="12" covered="0"/>
+        <counter type="LINE" missed="5" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method1" desc="()V" line="21">
+        <counter type="INSTRUCTION" missed="14" covered="0"/>
+        <counter type="LINE" missed="6" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method2" desc="()V" line="31">
+        <counter type="INSTRUCTION" missed="7" covered="0"/>
+        <counter type="LINE" missed="3" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method3" desc="()V" line="36">
+        <counter type="INSTRUCTION" missed="9" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="5" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="getStringFromDatabase" desc="(Z)Ljava/lang/String;" line="45">
+        <counter type="INSTRUCTION" missed="6" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="3" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method4" desc="()V" line="53">
+        <counter type="INSTRUCTION" missed="10" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="4" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method5" desc="()V" line="60">
+        <counter type="INSTRUCTION" missed="15" covered="0"/>
+        <counter type="LINE" missed="5" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method6" desc="()V" line="67">
+        <counter type="INSTRUCTION" missed="31" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="12" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="method7" desc="()V" line="87">
+        <counter type="INSTRUCTION" missed="12" covered="0"/>
+        <counter type="LINE" missed="5" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="testMethod" desc="()V" line="94">
+        <counter type="INSTRUCTION" missed="14" covered="0"/>
+        <counter type="LINE" missed="5" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <counter type="INSTRUCTION" missed="133" covered="0"/>
+      <counter type="BRANCH" missed="8" covered="0"/>
+      <counter type="LINE" missed="54" covered="0"/>
+      <counter type="COMPLEXITY" missed="15" covered="0"/>
+      <counter type="METHOD" missed="11" covered="0"/>
+      <counter type="CLASS" missed="1" covered="0"/>
+    </class>
+    <sourcefile name="CleanFile.java">
+      <line nr="10" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="14" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="15" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="16" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="17" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="18" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="21" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="23" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="24" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="26" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="27" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="28" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="31" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="32" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="33" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="36" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="37" mi="3" ci="0" mb="2" cb="0"/>
+      <line nr="38" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="40" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="42" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="45" mi="2" ci="0" mb="2" cb="0"/>
+      <line nr="46" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="48" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="53" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="54" mi="2" ci="0" mb="2" cb="0"/>
+      <line nr="55" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="57" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="60" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="61" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="62" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="63" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="64" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="67" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="69" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="71" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="72" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="73" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="74" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="76" mi="2" ci="0" mb="2" cb="0"/>
+      <line nr="78" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="79" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="80" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="81" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="84" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="87" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="88" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="89" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="90" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="91" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="94" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="95" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="96" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="97" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="98" mi="1" ci="0" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="133" covered="0"/>
+      <counter type="BRANCH" missed="8" covered="0"/>
+      <counter type="LINE" missed="54" covered="0"/>
+      <counter type="COMPLEXITY" missed="15" covered="0"/>
+      <counter type="METHOD" missed="11" covered="0"/>
+      <counter type="CLASS" missed="1" covered="0"/>
+    </sourcefile>
+    <sourcefile name="BuggyFile.java">
+      <line nr="6" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="10" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="13" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="15" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="16" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="18" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="19" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="22" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="23" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="24" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="30" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="31" mi="3" ci="0" mb="2" cb="0"/>
+      <line nr="32" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="34" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="37" mi="2" ci="0" mb="2" cb="0"/>
+      <line nr="38" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="40" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="46" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="47" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="50" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="51" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="52" mi="7" ci="0" mb="2" cb="0"/>
+      <line nr="53" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="57" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="58" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="59" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="60" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="61" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="64" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="66" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="67" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="68" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="71" mi="2" ci="0" mb="2" cb="0"/>
+      <line nr="73" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="74" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="75" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="76" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="79" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="82" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="83" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="84" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="87" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="88" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="89" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="93" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="94" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="95" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="96" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="99" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="100" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="101" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="102" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="103" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="104" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="105" mi="1" ci="0" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="124" covered="0"/>
+      <counter type="BRANCH" missed="8" covered="0"/>
+      <counter type="LINE" missed="55" covered="0"/>
+      <counter type="COMPLEXITY" missed="18" covered="0"/>
+      <counter type="METHOD" missed="14" covered="0"/>
+      <counter type="CLASS" missed="1" covered="0"/>
+    </sourcefile>
+    <counter type="INSTRUCTION" missed="257" covered="0"/>
+    <counter type="BRANCH" missed="16" covered="0"/>
+    <counter type="LINE" missed="109" covered="0"/>
+    <counter type="COMPLEXITY" missed="33" covered="0"/>
+    <counter type="METHOD" missed="25" covered="0"/>
+    <counter type="CLASS" missed="2" covered="0"/>
+  </package>
+  <package name="org/example/Pattern">
+    <class name="org/example/Pattern/AlwaysTrueCondition" sourcefilename="AlwaysTrueCondition.java">
+      <method name="&lt;init&gt;" desc="(Lorg/example/Util/ModelUtil;)V" line="19">
+        <counter type="INSTRUCTION" missed="0" covered="10"/>
+        <counter type="LINE" missed="0" covered="4"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="process" desc="()V" line="31">
+        <counter type="INSTRUCTION" missed="38" covered="66"/>
+        <counter type="BRANCH" missed="6" covered="6"/>
+        <counter type="LINE" missed="8" covered="13"/>
+        <counter type="COMPLEXITY" missed="4" covered="3"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <counter type="INSTRUCTION" missed="38" covered="76"/>
+      <counter type="BRANCH" missed="6" covered="6"/>
+      <counter type="LINE" missed="8" covered="17"/>
+      <counter type="COMPLEXITY" missed="4" covered="4"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </class>
+    <class name="org/example/Pattern/DivisionByZero" sourcefilename="DivisionByZero.java">
+      <method name="&lt;init&gt;" desc="(Lorg/example/Util/ModelUtil;)V" line="18">
+        <counter type="INSTRUCTION" missed="0" covered="10"/>
+        <counter type="LINE" missed="0" covered="4"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="process" desc="()V" line="28">
+        <counter type="INSTRUCTION" missed="0" covered="105"/>
+        <counter type="BRANCH" missed="7" covered="19"/>
+        <counter type="LINE" missed="0" covered="20"/>
+        <counter type="COMPLEXITY" missed="7" covered="7"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="addFinding" desc="(Lspoon/reflect/code/CtBinaryOperator;)V" line="67">
+        <counter type="INSTRUCTION" missed="0" covered="23"/>
+        <counter type="LINE" missed="0" covered="6"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <counter type="INSTRUCTION" missed="0" covered="138"/>
+      <counter type="BRANCH" missed="7" covered="19"/>
+      <counter type="LINE" missed="0" covered="30"/>
+      <counter type="COMPLEXITY" missed="7" covered="9"/>
+      <counter type="METHOD" missed="0" covered="3"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </class>
+    <class name="org/example/Pattern/EmptyCatch" sourcefilename="EmptyCatch.java">
+      <method name="&lt;init&gt;" desc="(Lorg/example/Util/ModelUtil;)V" line="18">
+        <counter type="INSTRUCTION" missed="10" covered="0"/>
+        <counter type="LINE" missed="4" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="process" desc="()V" line="34">
+        <counter type="INSTRUCTION" missed="47" covered="0"/>
+        <counter type="BRANCH" missed="4" covered="0"/>
+        <counter type="LINE" missed="10" covered="0"/>
+        <counter type="COMPLEXITY" missed="3" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <counter type="INSTRUCTION" missed="57" covered="0"/>
+      <counter type="BRANCH" missed="4" covered="0"/>
+      <counter type="LINE" missed="14" covered="0"/>
+      <counter type="COMPLEXITY" missed="4" covered="0"/>
+      <counter type="METHOD" missed="2" covered="0"/>
+      <counter type="CLASS" missed="1" covered="0"/>
+    </class>
+    <class name="org/example/Pattern/AbstractPattern" sourcefilename="AbstractPattern.java">
+      <method name="&lt;init&gt;" desc="()V" line="11">
+        <counter type="INSTRUCTION" missed="0" covered="8"/>
+        <counter type="LINE" missed="0" covered="2"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="getDetection" desc="()Ljava/util/ArrayList;" line="56">
+        <counter type="INSTRUCTION" missed="0" covered="3"/>
+        <counter type="LINE" missed="0" covered="1"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="print" desc="()V" line="67">
+        <counter type="INSTRUCTION" missed="41" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="5" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <counter type="INSTRUCTION" missed="41" covered="11"/>
+      <counter type="BRANCH" missed="2" covered="0"/>
+      <counter type="LINE" missed="5" covered="3"/>
+      <counter type="COMPLEXITY" missed="2" covered="2"/>
+      <counter type="METHOD" missed="1" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </class>
+    <class name="org/example/Pattern/EmptyMethod" sourcefilename="EmptyMethod.java">
+      <method name="&lt;init&gt;" desc="(Lorg/example/Util/ModelUtil;)V" line="18">
+        <counter type="INSTRUCTION" missed="0" covered="10"/>
+        <counter type="LINE" missed="0" covered="4"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="process" desc="()V" line="35">
+        <counter type="INSTRUCTION" missed="1" covered="50"/>
+        <counter type="BRANCH" missed="1" covered="5"/>
+        <counter type="LINE" missed="0" covered="11"/>
+        <counter type="COMPLEXITY" missed="1" covered="3"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <counter type="INSTRUCTION" missed="1" covered="60"/>
+      <counter type="BRANCH" missed="1" covered="5"/>
+      <counter type="LINE" missed="0" covered="15"/>
+      <counter type="COMPLEXITY" missed="1" covered="4"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </class>
+    <class name="org/example/Pattern/FileNotClosed" sourcefilename="FileNotClosed.java">
+      <method name="&lt;init&gt;" desc="(Lorg/example/Util/ModelUtil;)V" line="18">
+        <counter type="INSTRUCTION" missed="0" covered="10"/>
+        <counter type="LINE" missed="0" covered="4"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="process" desc="()V" line="29">
+        <counter type="INSTRUCTION" missed="0" covered="140"/>
+        <counter type="BRANCH" missed="4" covered="18"/>
+        <counter type="LINE" missed="0" covered="25"/>
+        <counter type="COMPLEXITY" missed="4" covered="8"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <counter type="INSTRUCTION" missed="0" covered="150"/>
+      <counter type="BRANCH" missed="4" covered="18"/>
+      <counter type="LINE" missed="0" covered="29"/>
+      <counter type="COMPLEXITY" missed="4" covered="9"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </class>
+    <class name="org/example/Pattern/AbstractPattern$elementSchema" sourcefilename="AbstractPattern.java">
+      <method name="&lt;init&gt;" desc="(Lorg/example/Pattern/AbstractPattern;Ljava/lang/String;IILjava/lang/String;)V" line="24">
+        <counter type="INSTRUCTION" missed="15" covered="0"/>
+        <counter type="LINE" missed="6" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="&lt;init&gt;" desc="(Lorg/example/Pattern/AbstractPattern;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;IILjava/lang/String;)V" line="32">
+        <counter type="INSTRUCTION" missed="21" covered="0"/>
+        <counter type="LINE" missed="8" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="&lt;init&gt;" desc="(Lorg/example/Pattern/AbstractPattern;Ljava/lang/String;Ljava/lang/String;IILjava/lang/String;)V" line="42">
+        <counter type="INSTRUCTION" missed="0" covered="18"/>
+        <counter type="LINE" missed="0" covered="7"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <counter type="INSTRUCTION" missed="36" covered="18"/>
+      <counter type="LINE" missed="14" covered="7"/>
+      <counter type="COMPLEXITY" missed="2" covered="1"/>
+      <counter type="METHOD" missed="2" covered="1"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </class>
+    <class name="org/example/Pattern/IncorrectStringComparison" sourcefilename="IncorrectStringComparison.java">
+      <method name="&lt;init&gt;" desc="(Lorg/example/Util/ModelUtil;)V" line="15">
+        <counter type="INSTRUCTION" missed="0" covered="10"/>
+        <counter type="LINE" missed="0" covered="4"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="process" desc="()V" line="26">
+        <counter type="INSTRUCTION" missed="2" covered="76"/>
+        <counter type="BRANCH" missed="2" covered="12"/>
+        <counter type="LINE" missed="0" covered="16"/>
+        <counter type="COMPLEXITY" missed="2" covered="6"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <counter type="INSTRUCTION" missed="2" covered="86"/>
+      <counter type="BRANCH" missed="2" covered="12"/>
+      <counter type="LINE" missed="0" covered="20"/>
+      <counter type="COMPLEXITY" missed="2" covered="7"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </class>
+    <class name="org/example/Pattern/NullPointerPattern" sourcefilename="NullPointerPattern.java">
+      <method name="&lt;init&gt;" desc="(Lorg/example/Util/ModelUtil;)V" line="19">
+        <counter type="INSTRUCTION" missed="0" covered="10"/>
+        <counter type="LINE" missed="0" covered="4"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="process" desc="()V" line="30">
+        <counter type="INSTRUCTION" missed="1" covered="158"/>
+        <counter type="BRANCH" missed="4" covered="22"/>
+        <counter type="LINE" missed="0" covered="30"/>
+        <counter type="COMPLEXITY" missed="4" covered="10"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <counter type="INSTRUCTION" missed="1" covered="168"/>
+      <counter type="BRANCH" missed="4" covered="22"/>
+      <counter type="LINE" missed="0" covered="34"/>
+      <counter type="COMPLEXITY" missed="4" covered="11"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </class>
+    <sourcefile name="EmptyMethod.java">
+      <line nr="18" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="24" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="25" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="26" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="35" mi="0" ci="8" mb="0" cb="0"/>
+      <line nr="36" mi="0" ci="10" mb="0" cb="2"/>
+      <line nr="38" mi="1" ci="3" mb="1" cb="1"/>
+      <line nr="41" mi="0" ci="5" mb="0" cb="2"/>
+      <line nr="42" mi="0" ci="10" mb="0" cb="0"/>
+      <line nr="44" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="45" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="46" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="47" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="50" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="51" mi="0" ci="1" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="1" covered="60"/>
+      <counter type="BRANCH" missed="1" covered="5"/>
+      <counter type="LINE" missed="0" covered="15"/>
+      <counter type="COMPLEXITY" missed="1" covered="4"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </sourcefile>
+    <sourcefile name="AlwaysTrueCondition.java">
+      <line nr="19" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="23" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="24" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="25" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="31" mi="0" ci="8" mb="0" cb="0"/>
+      <line nr="34" mi="0" ci="10" mb="0" cb="2"/>
+      <line nr="35" mi="0" ci="5" mb="1" cb="1"/>
+      <line nr="36" mi="0" ci="5" mb="0" cb="2"/>
+      <line nr="37" mi="0" ci="10" mb="0" cb="0"/>
+      <line nr="39" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="40" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="41" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="42" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="45" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="48" mi="0" ci="8" mb="0" cb="0"/>
+      <line nr="49" mi="4" ci="6" mb="1" cb="1"/>
+      <line nr="50" mi="5" ci="0" mb="2" cb="0"/>
+      <line nr="51" mi="5" ci="0" mb="2" cb="0"/>
+      <line nr="52" mi="10" ci="0" mb="0" cb="0"/>
+      <line nr="54" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="56" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="57" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="58" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="61" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="62" mi="0" ci="1" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="38" covered="76"/>
+      <counter type="BRANCH" missed="6" covered="6"/>
+      <counter type="LINE" missed="8" covered="17"/>
+      <counter type="COMPLEXITY" missed="4" covered="4"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </sourcefile>
+    <sourcefile name="AbstractPattern.java">
+      <line nr="11" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="24" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="25" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="26" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="27" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="28" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="29" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="32" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="33" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="34" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="35" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="36" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="37" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="38" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="39" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="42" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="43" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="44" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="45" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="46" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="47" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="48" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="52" mi="0" ci="6" mb="0" cb="0"/>
+      <line nr="56" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="67" mi="11" ci="0" mb="2" cb="0"/>
+      <line nr="69" mi="15" ci="0" mb="0" cb="0"/>
+      <line nr="71" mi="13" ci="0" mb="0" cb="0"/>
+      <line nr="73" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="74" mi="1" ci="0" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="77" covered="29"/>
+      <counter type="BRANCH" missed="2" covered="0"/>
+      <counter type="LINE" missed="19" covered="10"/>
+      <counter type="COMPLEXITY" missed="4" covered="3"/>
+      <counter type="METHOD" missed="3" covered="3"/>
+      <counter type="CLASS" missed="0" covered="2"/>
+    </sourcefile>
+    <sourcefile name="DivisionByZero.java">
+      <line nr="18" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="21" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="22" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="23" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="28" mi="0" ci="16" mb="0" cb="2"/>
+      <line nr="31" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="32" mi="0" ci="9" mb="1" cb="3"/>
+      <line nr="34" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="37" mi="0" ci="3" mb="0" cb="2"/>
+      <line nr="38" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="39" mi="0" ci="9" mb="2" cb="2"/>
+      <line nr="40" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="41" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="46" mi="0" ci="5" mb="2" cb="2"/>
+      <line nr="47" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="50" mi="0" ci="16" mb="0" cb="2"/>
+      <line nr="51" mi="0" ci="6" mb="0" cb="2"/>
+      <line nr="52" mi="0" ci="3" mb="1" cb="1"/>
+      <line nr="53" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="54" mi="0" ci="9" mb="1" cb="3"/>
+      <line nr="55" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="58" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="60" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="61" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="67" mi="0" ci="10" mb="0" cb="0"/>
+      <line nr="69" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="70" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="71" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="72" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="74" mi="0" ci="1" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="0" covered="138"/>
+      <counter type="BRANCH" missed="7" covered="19"/>
+      <counter type="LINE" missed="0" covered="30"/>
+      <counter type="COMPLEXITY" missed="7" covered="9"/>
+      <counter type="METHOD" missed="0" covered="3"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </sourcefile>
+    <sourcefile name="IncorrectStringComparison.java">
+      <line nr="15" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="19" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="20" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="21" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="26" mi="0" ci="16" mb="0" cb="2"/>
+      <line nr="28" mi="0" ci="8" mb="0" cb="4"/>
+      <line nr="29" mi="0" ci="4" mb="1" cb="1"/>
+      <line nr="30" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="31" mi="1" ci="1" mb="0" cb="0"/>
+      <line nr="32" mi="0" ci="4" mb="1" cb="1"/>
+      <line nr="33" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="34" mi="1" ci="1" mb="0" cb="0"/>
+      <line nr="37" mi="0" ci="8" mb="0" cb="4"/>
+      <line nr="38" mi="0" ci="10" mb="0" cb="0"/>
+      <line nr="40" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="41" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="42" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="43" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="47" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="48" mi="0" ci="1" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="2" covered="86"/>
+      <counter type="BRANCH" missed="2" covered="12"/>
+      <counter type="LINE" missed="0" covered="20"/>
+      <counter type="COMPLEXITY" missed="2" covered="7"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </sourcefile>
+    <sourcefile name="NullPointerPattern.java">
+      <line nr="19" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="23" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="24" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="25" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="30" mi="0" ci="8" mb="0" cb="0"/>
+      <line nr="31" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="33" mi="0" ci="10" mb="0" cb="2"/>
+      <line nr="34" mi="0" ci="5" mb="0" cb="2"/>
+      <line nr="35" mi="0" ci="4" mb="0" cb="2"/>
+      <line nr="36" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="38" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="41" mi="0" ci="8" mb="0" cb="0"/>
+      <line nr="42" mi="0" ci="8" mb="0" cb="0"/>
+      <line nr="44" mi="0" ci="10" mb="0" cb="2"/>
+      <line nr="45" mi="0" ci="4" mb="0" cb="2"/>
+      <line nr="46" mi="0" ci="5" mb="1" cb="1"/>
+      <line nr="47" mi="0" ci="4" mb="0" cb="2"/>
+      <line nr="50" mi="1" ci="9" mb="2" cb="2"/>
+      <line nr="52" mi="0" ci="10" mb="0" cb="0"/>
+      <line nr="54" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="55" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="56" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="57" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="60" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="62" mi="0" ci="10" mb="0" cb="2"/>
+      <line nr="63" mi="0" ci="6" mb="0" cb="2"/>
+      <line nr="66" mi="0" ci="10" mb="1" cb="3"/>
+      <line nr="68" mi="0" ci="10" mb="0" cb="0"/>
+      <line nr="70" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="71" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="72" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="73" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="76" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="77" mi="0" ci="1" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="1" covered="168"/>
+      <counter type="BRANCH" missed="4" covered="22"/>
+      <counter type="LINE" missed="0" covered="34"/>
+      <counter type="COMPLEXITY" missed="4" covered="11"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </sourcefile>
+    <sourcefile name="EmptyCatch.java">
+      <line nr="18" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="24" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="25" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="26" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="34" mi="8" ci="0" mb="0" cb="0"/>
+      <line nr="37" mi="10" ci="0" mb="2" cb="0"/>
+      <line nr="39" mi="5" ci="0" mb="2" cb="0"/>
+      <line nr="41" mi="10" ci="0" mb="0" cb="0"/>
+      <line nr="43" mi="4" ci="0" mb="0" cb="0"/>
+      <line nr="44" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="45" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="46" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="49" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="50" mi="1" ci="0" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="57" covered="0"/>
+      <counter type="BRANCH" missed="4" covered="0"/>
+      <counter type="LINE" missed="14" covered="0"/>
+      <counter type="COMPLEXITY" missed="4" covered="0"/>
+      <counter type="METHOD" missed="2" covered="0"/>
+      <counter type="CLASS" missed="1" covered="0"/>
+    </sourcefile>
+    <sourcefile name="FileNotClosed.java">
+      <line nr="18" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="22" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="23" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="24" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="29" mi="0" ci="8" mb="0" cb="0"/>
+      <line nr="31" mi="0" ci="10" mb="0" cb="2"/>
+      <line nr="33" mi="0" ci="7" mb="0" cb="0"/>
+      <line nr="34" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="36" mi="0" ci="10" mb="0" cb="2"/>
+      <line nr="37" mi="0" ci="3" mb="1" cb="1"/>
+      <line nr="38" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="39" mi="0" ci="12" mb="2" cb="4"/>
+      <line nr="40" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="43" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="46" mi="0" ci="7" mb="0" cb="0"/>
+      <line nr="47" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="49" mi="0" ci="10" mb="0" cb="2"/>
+      <line nr="50" mi="0" ci="9" mb="1" cb="3"/>
+      <line nr="51" mi="0" ci="6" mb="0" cb="0"/>
+      <line nr="53" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="56" mi="0" ci="10" mb="0" cb="2"/>
+      <line nr="57" mi="0" ci="4" mb="0" cb="2"/>
+      <line nr="58" mi="0" ci="10" mb="0" cb="0"/>
+      <line nr="60" mi="0" ci="4" mb="0" cb="0"/>
+      <line nr="61" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="62" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="66" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="67" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="68" mi="0" ci="1" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="0" covered="150"/>
+      <counter type="BRANCH" missed="4" covered="18"/>
+      <counter type="LINE" missed="0" covered="29"/>
+      <counter type="COMPLEXITY" missed="4" covered="9"/>
+      <counter type="METHOD" missed="0" covered="2"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </sourcefile>
+    <counter type="INSTRUCTION" missed="176" covered="707"/>
+    <counter type="BRANCH" missed="30" covered="82"/>
+    <counter type="LINE" missed="41" covered="155"/>
+    <counter type="COMPLEXITY" missed="30" covered="47"/>
+    <counter type="METHOD" missed="5" covered="16"/>
+    <counter type="CLASS" missed="1" covered="8"/>
+  </package>
+  <package name="org/example">
+    <class name="org/example/Main" sourcefilename="Main.java">
+      <method name="&lt;init&gt;" desc="()V" line="15">
+        <counter type="INSTRUCTION" missed="3" covered="0"/>
+        <counter type="LINE" missed="1" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="main" desc="([Ljava/lang/String;)V" line="27">
+        <counter type="INSTRUCTION" missed="94" covered="0"/>
+        <counter type="LINE" missed="13" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <counter type="INSTRUCTION" missed="97" covered="0"/>
+      <counter type="LINE" missed="14" covered="0"/>
+      <counter type="COMPLEXITY" missed="2" covered="0"/>
+      <counter type="METHOD" missed="2" covered="0"/>
+      <counter type="CLASS" missed="1" covered="0"/>
+    </class>
+    <sourcefile name="Main.java">
+      <line nr="15" mi="3" ci="0" mb="0" cb="0"/>
+      <line nr="27" mi="34" ci="0" mb="0" cb="0"/>
+      <line nr="29" mi="8" ci="0" mb="0" cb="0"/>
+      <line nr="32" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="35" mi="6" ci="0" mb="0" cb="0"/>
+      <line nr="36" mi="6" ci="0" mb="0" cb="0"/>
+      <line nr="37" mi="6" ci="0" mb="0" cb="0"/>
+      <line nr="38" mi="6" ci="0" mb="0" cb="0"/>
+      <line nr="39" mi="6" ci="0" mb="0" cb="0"/>
+      <line nr="40" mi="6" ci="0" mb="0" cb="0"/>
+      <line nr="41" mi="6" ci="0" mb="0" cb="0"/>
+      <line nr="44" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="47" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="49" mi="1" ci="0" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="97" covered="0"/>
+      <counter type="LINE" missed="14" covered="0"/>
+      <counter type="COMPLEXITY" missed="2" covered="0"/>
+      <counter type="METHOD" missed="2" covered="0"/>
+      <counter type="CLASS" missed="1" covered="0"/>
+    </sourcefile>
+    <counter type="INSTRUCTION" missed="97" covered="0"/>
+    <counter type="LINE" missed="14" covered="0"/>
+    <counter type="COMPLEXITY" missed="2" covered="0"/>
+    <counter type="METHOD" missed="2" covered="0"/>
+    <counter type="CLASS" missed="1" covered="0"/>
+  </package>
+  <package name="org/example/Util">
+    <class name="org/example/Util/ModelUtil" sourcefilename="ModelUtil.java">
+      <method name="&lt;init&gt;" desc="(Ljava/nio/file/Path;)V" line="21">
+        <counter type="INSTRUCTION" missed="0" covered="40"/>
+        <counter type="LINE" missed="0" covered="10"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="getModel" desc="()Lspoon/reflect/CtModel;" line="47">
+        <counter type="INSTRUCTION" missed="0" covered="3"/>
+        <counter type="LINE" missed="0" covered="1"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="configureLauncherEnvironment" desc="()V" line="56">
+        <counter type="INSTRUCTION" missed="0" covered="21"/>
+        <counter type="LINE" missed="0" covered="5"/>
+        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="METHOD" missed="0" covered="1"/>
+      </method>
+      <method name="addRuleToAnalyze" desc="(Lorg/example/Pattern/AbstractPattern;)V" line="75">
+        <counter type="INSTRUCTION" missed="6" covered="0"/>
+        <counter type="LINE" missed="2" covered="0"/>
+        <counter type="COMPLEXITY" missed="1" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="runAnalysis" desc="()V" line="80">
+        <counter type="INSTRUCTION" missed="15" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="4" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <method name="print" desc="()V" line="87">
+        <counter type="INSTRUCTION" missed="15" covered="0"/>
+        <counter type="BRANCH" missed="2" covered="0"/>
+        <counter type="LINE" missed="4" covered="0"/>
+        <counter type="COMPLEXITY" missed="2" covered="0"/>
+        <counter type="METHOD" missed="1" covered="0"/>
+      </method>
+      <counter type="INSTRUCTION" missed="36" covered="64"/>
+      <counter type="BRANCH" missed="4" covered="0"/>
+      <counter type="LINE" missed="10" covered="16"/>
+      <counter type="COMPLEXITY" missed="5" covered="3"/>
+      <counter type="METHOD" missed="3" covered="3"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </class>
+    <sourcefile name="ModelUtil.java">
+      <line nr="21" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="22" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="24" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="31" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="34" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="35" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="38" mi="0" ci="2" mb="0" cb="0"/>
+      <line nr="41" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="43" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="44" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="47" mi="0" ci="3" mb="0" cb="0"/>
+      <line nr="56" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="59" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="62" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="65" mi="0" ci="5" mb="0" cb="0"/>
+      <line nr="66" mi="0" ci="1" mb="0" cb="0"/>
+      <line nr="75" mi="5" ci="0" mb="0" cb="0"/>
+      <line nr="76" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="80" mi="11" ci="0" mb="2" cb="0"/>
+      <line nr="81" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="82" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="83" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="87" mi="11" ci="0" mb="2" cb="0"/>
+      <line nr="88" mi="2" ci="0" mb="0" cb="0"/>
+      <line nr="89" mi="1" ci="0" mb="0" cb="0"/>
+      <line nr="90" mi="1" ci="0" mb="0" cb="0"/>
+      <counter type="INSTRUCTION" missed="36" covered="64"/>
+      <counter type="BRANCH" missed="4" covered="0"/>
+      <counter type="LINE" missed="10" covered="16"/>
+      <counter type="COMPLEXITY" missed="5" covered="3"/>
+      <counter type="METHOD" missed="3" covered="3"/>
+      <counter type="CLASS" missed="0" covered="1"/>
+    </sourcefile>
+    <counter type="INSTRUCTION" missed="36" covered="64"/>
+    <counter type="BRANCH" missed="4" covered="0"/>
+    <counter type="LINE" missed="10" covered="16"/>
+    <counter type="COMPLEXITY" missed="5" covered="3"/>
+    <counter type="METHOD" missed="3" covered="3"/>
+    <counter type="CLASS" missed="0" covered="1"/>
+  </package>
+  <counter type="INSTRUCTION" missed="566" covered="771"/>
+  <counter type="BRANCH" missed="50" covered="82"/>
+  <counter type="LINE" missed="174" covered="171"/>
+  <counter type="COMPLEXITY" missed="70" covered="50"/>
+  <counter type="METHOD" missed="35" covered="19"/>
+  <counter type="CLASS" missed="4" covered="9"/>
+</report>
