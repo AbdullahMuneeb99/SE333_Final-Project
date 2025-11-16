@@ -1,11 +1,13 @@
 [project]
 name = "software-testing-class-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "MCP tool for generating Java tests from JaCoCo coverage reports"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.9"
 dependencies = [
     "fastmcp>=2.13.0.2",
     "httpx>=0.28.1",
     "mcp[cli]>=1.19.0",
+    "lxml>=4.9.0",
+    "requests>=2.31.0",
 ]
