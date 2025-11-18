@@ -1,7 +1,7 @@
 # Contributors
-Abdullah Muneeb Bin Adil
-Kenner Fitt
-Rohan Sahoo
+1. Abdullah Muneeb Bin Adil
+2. Kenner Fitt
+3. Rohan Sahoo
 
 # JaCoCo Test Generator MCP Tool
 
