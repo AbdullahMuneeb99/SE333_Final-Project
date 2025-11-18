@@ -1,3 +1,8 @@
+# Contributors
+Abdullah Muneeb Bin Adil
+Kenner Fitt
+Rohan Sahoo
+
 # JaCoCo Test Generator MCP Tool
 
 A Python MCP tool that automatically generates Java tests from JaCoCo coverage reports and automates Git workflows.
